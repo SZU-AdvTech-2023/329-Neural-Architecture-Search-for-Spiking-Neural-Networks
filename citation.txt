@@ -1,0 +1,8 @@
+@inproceedings{REPO329,
+    author = "Kim, Youngeun and Li, Yuhang and Park, Hyoungseob and Venkatesha, Yeshwanth and Panda, Priyadarshini",
+    booktitle = "European Conference on Computer Vision",
+    organization = "Springer",
+    pages = "36--56",
+    title = "{Neural Architecture Search for Spiking Neural Networks}",
+    year = "2022"
+}
